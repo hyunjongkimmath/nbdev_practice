@@ -1,6 +1,7 @@
 {
   "nbdev_practice": {
     "Overview": "/",
-    "core": "core.html"
+    "core": "core.html",
+    "example_module": "example_module.html"
   }
 }

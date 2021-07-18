@@ -6,9 +6,12 @@ index = {"say_hello": "00_core.ipynb",
          "Card": "00_core.ipynb",
          "Deck": "00_core.ipynb",
          "Hand": "00_core.ipynb",
-         "find_defining_class": "00_core.ipynb"}
+         "find_defining_class": "00_core.ipynb",
+         "print_even_numbers": "example_module.ipynb",
+         "Classy": "example_module.ipynb"}
 
-modules = ["core.py"]
+modules = ["core.py",
+           "example_module.py"]
 
 doc_url = "https://hyunjongkimmath.github.io/nbdev_practice/"
 

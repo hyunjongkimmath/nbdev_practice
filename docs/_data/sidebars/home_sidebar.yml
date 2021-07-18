@@ -12,6 +12,9 @@ entries:
     - output: web,pdf
       title: core
       url: core.html
+    - output: web,pdf
+      title: example_module
+      url: example_module.html
     output: web
     title: nbdev_practice
   output: web
